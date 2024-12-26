@@ -3,7 +3,7 @@ I'm a **Full-Stack Developer** and **iOS Developer** specializing in **frontend 
 ## 🧪 Skills
 - **Frontend**: TypeScript, React, Next.js
 - **Backend**: Python, FastAPI, Node.js
-- **Tools**: Git, Docker, CI/CD
+- **Cloud**: AWS
 - **iOS Development**: Swift
 
 
