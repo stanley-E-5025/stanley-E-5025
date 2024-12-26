@@ -1,6 +1,3 @@
-Stanley Gordon/README.md
-
-
 I'm a **Full-Stack Developer** and **iOS Developer** specializing in **frontend development**, **user-friendly applications**, and **Swift-based iOS apps**.
 
 ## 🧪 Skills
