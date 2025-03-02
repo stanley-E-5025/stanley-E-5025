@@ -1,4 +1,4 @@
-# Hi, I'm Stanley Gordon 🤓
+# Hi, I'm Stanley Gordon
 
 I'm a **Full-Stack Software Engineer** with 4 years of experience delivering robust, scalable solutions for consulting firms and startups. I specialize in crafting modern web applications, architecting cloud-native infrastructures, and driving innovation.
 
