@@ -4,9 +4,10 @@ I'm a **Full-Stack Software Engineer** with 5+ years of experience delivering ro
 
 ## 🧪 Skills
 - **Frontend**: TypeScript, React, Next.js, React Native
-- **Backend**: Python, FastAPI, Node.js, Django, Flask
-- **Cloud & DevOps**: AWS (Serverless, EC2, S3), Docker, CI/CD
-- **Other**: Agile methodologies, Microservices, Testing, RESTful APIs
+- **Backend**: Python, FastAPI, Node.js, Nest.js, Django, Flask
+- **Cloud & DevOps**: AWS (Serverless, EC2, S3), Docker
+- **Databases**: PostgreSQL, MongoDB, DynamoDB, SQLite 
+- **Other**: Linux, Bash, Microservices, RESTful APIs, GraphQL, Hugging Face Models, Open AI API
 
 ## 📡 Connect
 - [Email](mailto:stanleyeugenegordon@gmail.com)
